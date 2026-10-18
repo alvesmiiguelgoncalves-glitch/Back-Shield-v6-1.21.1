@@ -1,0 +1,7 @@
+{
+  "category.backshield.key": "Back Shield",
+  "key.backshield.toggle": "Sacar / guardar escudo (mão secundária)",
+  "key.backshield.block": "Segurar para defender com o escudo das costas",
+  "trinkets.slot.chest.back_shield": "Escudo nas costas",
+  "message.backshield.offhand_occupied": "Sua mão secundária está ocupada."
+}

@@ -1,0 +1,7 @@
+{
+  "category.backshield.key": "Back Shield",
+  "key.backshield.toggle": "Draw / sheathe shield (offhand)",
+  "key.backshield.block": "Hold to block with back shield",
+  "trinkets.slot.chest.back_shield": "Back Shield",
+  "message.backshield.offhand_occupied": "Your offhand is occupied."
+}

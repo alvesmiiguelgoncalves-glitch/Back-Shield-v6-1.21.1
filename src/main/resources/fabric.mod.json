@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "backshield",
+  "version": "${version}",
+  "name": "Back Shield",
+  "description": "Carry a shield on your back in a dedicated Trinkets slot, draw it to your offhand or hold a key to block temporarily.",
+  "authors": [ "Back Shield contributors" ],
+  "contact": {},
+  "license": "GPL-3.0-only",
+  "environment": "*",
+  "entrypoints": {
+    "main": [ "net.backshield.BackShieldMain" ],
+    "client": [ "net.backshield.client.BackShieldClient" ]
+  },
+  "depends": {
+    "java": ">=21",
+    "minecraft": "~1.21.1",
+    "fabricloader": ">=0.16.5",
+    "fabric-api": "*",
+    "trinkets": ">=${trinkets_version}"
+  },
+  "suggests": {
+    "backpacked": "*"
+  }
+}
